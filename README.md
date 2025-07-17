@@ -1,2 +1,2 @@
-# binenc
-a binary-oriented symmetric encryption utility
+# binmac
+a binary-oriented symmetric mac-ing utility
