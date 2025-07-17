@@ -1,0 +1,10 @@
+# vim files:
+*.swp
+*.vim
+tags
+
+# output files:
+*.o
+binenc
+debug
+test
